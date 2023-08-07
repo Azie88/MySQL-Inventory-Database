@@ -36,7 +36,7 @@ INNER JOIN item ON item_stock.item_id = item.item_id
 WHERE item_stock.quantity > 0 AND item_stock.quantity < 10;
 
 -- 5. List items whose quantity is Zero (0) and how long (In minutes) they have been in this state.
--- From last date changed to current date timestamp
+--  From last date changed to current date timestamp
 
 SELECT 
     item.item_id,
