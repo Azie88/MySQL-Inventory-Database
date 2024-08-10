@@ -12,7 +12,7 @@ SQL is the most common standardized language used to access databases.
 
 ## MySQL Local Database 🖥️
 
-1. Download the [MySQL installer] (https://dev.mysql.com/downloads/installer/)
+1. Download the [MySQL installer](https://dev.mysql.com/downloads/installer/)
 
 2. Follow the installation instructions. Install MySQL workbench and MySQL Server
 
