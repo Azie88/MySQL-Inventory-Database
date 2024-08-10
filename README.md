@@ -1,6 +1,6 @@
 # MySQL Inventory Database 💾
 
-**Creating a relational database with CSV files** <br><br>
+### Creating a relational database with CSV files <br><br>
 This repository contains a dataset with information about inventory on a healthcare platform used to create a relational database with MySQL.
 
  ![Sakila the Dolphin](https://github.com/user-attachments/assets/cfb81a7e-06d6-4ca6-89cb-93b1acfa50d9)
