@@ -1,4 +1,4 @@
-![inventory](https://github.com/user-attachments/assets/b85dc9f7-a294-4c7f-bf0d-0f7266a7aa39)# MySQL Inventory Database 💾
+# MySQL Inventory Database 💾
 
 ### Creating a relational database with CSV files <br>
 This repository contains a dataset with information about inventory on a healthcare platform used to create a relational database with MySQL.
@@ -25,5 +25,5 @@ SQL is the most common standardized language used to access databases.
 6. Use the EER Diagram to enter the column datatypes, primary keys and foreign keys for each table
 ![EER Diagram](https://github.com/user-attachments/assets/0369f474-24df-4962-8aeb-799d0c4fb365)
 
-
+7. You are now ready to query the database and retrieve specific data, generate reports and make data-driven decisions
 
