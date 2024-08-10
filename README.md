@@ -22,7 +22,7 @@ SQL is the most common standardized language used to access databases.
 
 5. Import the CSV files into MySQL Workbench as tables to your new database
 
-6. Use the EER Diagram to enter the column datatypes, primary keys and relationships for each table
+6. Use the EER Diagram to enter the column datatypes, primary keys and foreign keys for each table
 ![EER Diagram](https://github.com/user-attachments/assets/0369f474-24df-4962-8aeb-799d0c4fb365)
 
 
