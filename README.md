@@ -18,12 +18,29 @@ SQL is the most common standardized language used to access databases.
 
 3. Launch MySQL workbench and create a database
 
-4. Fork or clone this repository `git clone https://github.com/Azie88/MySQL-Inventory-Database.git` and save the csv files in the `dataset` folder
+4.Clone this repository `git clone https://github.com/Azie88/MySQL-Inventory-Database.git` and save the csv files in the `dataset` folder
 
 5. Import the CSV files into MySQL Workbench as tables to your new database
 
 6. Use the EER Diagram to enter the column datatypes, primary keys and foreign keys for each table
 ![EER Diagram](https://github.com/user-attachments/assets/0369f474-24df-4962-8aeb-799d0c4fb365)
 
-7. You are now ready to query the database and retrieve specific data, generate reports and make data-driven decisions
+7. You are now ready to query the database and retrieve specific data, generate reports and make data-driven decisions. Use some of the SQL queries in the `mySQL.sql` file as examples :smile:
+
+## Contributions :handshake:
+
+Open an issue, submit a pull request or contact me for any contributions.
+
+## Author :writing_hand:
+
+Andrew Obando
+
+<a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrew Obando | LinkedIn"/></a>
+<a href="https://medium.com/@obandoandrew8">
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+</a>
+
+---
+
+Feel free to star ⭐ this repository if you find it helpful!
 
