@@ -18,7 +18,7 @@ SQL is the most common standardized language used to access databases.
 
 3. Launch MySQL workbench and create a database
 
-4.Clone this repository `git clone https://github.com/Azie88/MySQL-Inventory-Database.git` and save the csv files in the `dataset` folder
+ 4.Clone this repository `git clone https://github.com/Azie88/MySQL-Inventory-Database.git` and save the csv files in the `dataset` folder
 
 5. Import the CSV files into MySQL Workbench as tables to your new database
 
