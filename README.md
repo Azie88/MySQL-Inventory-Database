@@ -12,13 +12,15 @@ SQL is the most common standardized language used to access databases.
 
 ## MySQL Local Database 🖥️
 
+📖 **Medium Article** -> [Creating a Relational Database from Excel files — MySQL Workbench](https://medium.com/@obandoandrew8/creating-a-relational-database-from-excel-files-mysql-workbench-3fe56164bf34)
+
 1. Download the [MySQL installer](https://dev.mysql.com/downloads/installer/)
 
 2. Follow the installation instructions. Install MySQL workbench and MySQL Server
 
 3. Launch MySQL workbench and create a database
 
- 4.Clone this repository `git clone https://github.com/Azie88/MySQL-Inventory-Database.git` and save the csv files in the `dataset` folder
+4. Clone this repository `git clone https://github.com/Azie88/MySQL-Inventory-Database.git` and save the csv files in the `dataset` folder
 
 5. Import the CSV files into MySQL Workbench as tables to your new database
 
