@@ -10,9 +10,10 @@ MySQL is an open-source relational database management system (RDBMS) that is wi
 
 SQL is the most common standardized language used to access databases.
 
+📖 **Medium Article** -> [Creating a Relational Database from Excel files — MySQL Workbench](https://medium.com/@obandoandrew8/creating-a-relational-database-from-excel-files-mysql-workbench-3fe56164bf34)
+
 ## MySQL Local Database 🖥️
 
-📖 **Medium Article** -> [Creating a Relational Database from Excel files — MySQL Workbench](https://medium.com/@obandoandrew8/creating-a-relational-database-from-excel-files-mysql-workbench-3fe56164bf34)
 
 1. Download the [MySQL installer](https://dev.mysql.com/downloads/installer/)
 
