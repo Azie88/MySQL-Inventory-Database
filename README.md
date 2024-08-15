@@ -28,7 +28,7 @@ SQL is the most common standardized language used to access databases.
 6. Use the EER Diagram to enter the column datatypes, primary keys and foreign keys for each table
 ![EER Diagram](https://github.com/user-attachments/assets/0369f474-24df-4962-8aeb-799d0c4fb365)
 
-7. You are now ready to query the database and retrieve specific data, generate reports and make data-driven decisions. Use some of the SQL queries in the `mySQL.sql` file as examples :smile:
+7. You are now ready to query the database and retrieve specific data, generate reports and make data-driven decisions. Use the SQL queries in the `mySQL.sql` file as examples
 
 ## Contributions :handshake:
 
